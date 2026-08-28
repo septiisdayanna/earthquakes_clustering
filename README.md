@@ -107,8 +107,6 @@ Dataset awal memiliki fitur numerik dan kategorikal, termasuk informasi seperti:
 
 Dalam preprocessing, beberapa kolom dengan informasi yang tidak digunakan untuk pemodelan dihapus. Missing values ditangani berdasarkan jumlah missing value, kemudian data diproses lebih lanjut untuk kebutuhan clustering. Setelah preprocessing, **24,682 baris** digunakan dalam tahap modeling.
 
-> Catatan: Repository tidak mencantumkan URL spesifik halaman Kaggle, sehingga tidak dicantumkan di README ini untuk menghindari penggunaan sumber yang tidak dapat diverifikasi.
-
 ---
 
 ## Methodology
